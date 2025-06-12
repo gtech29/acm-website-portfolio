@@ -5,7 +5,6 @@ This is a personal snapshot of the official CSUN ACM website, reflecting my orig
 📍 **Live Demo:** [https://gtech29.github.io/acm-website-portfolio/
 ](https://gtech29.github.io/acm-website-portfolio/)
 
-
 🔗 **Original Repo:** [CSUN-ACM/csun-acm.github.io](https://github.com/CSUN-ACM/csun-acm.github.io)
 
 ## 📌 Purpose
@@ -27,7 +26,7 @@ This version preserves my contributions prior to the end of my term in July 2025
 
 ## ⚠️ Note
 
-This repository is **not** the active version of the ACM website. It is an archived version maintained solely for portfolio and demonstration purposes.
+This repository is **NOT** the active version of the ACM website. It is an archived version maintained solely for portfolio and demonstration purposes.
 
 ## 📄 License
 
