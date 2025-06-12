@@ -1,18 +1,32 @@
-<!-- ABOUT CSUN ACM -->
-## About (CSUN) ACM
+# CSUN ACM Website (Archived Snapshot)
 
-The CSUN ACM is a student chapter of the Association for Computing Machinery, 
-an international scientific and educational organization dedicated to advancing the arts, 
-sciences, and applications of information technology.
+This is a personal snapshot of the official CSUN ACM website, reflecting my original contributions as Webmaster during Spring–Summer 2025.
 
-<!-- CONTACT -->
-## Contact
+📍 **Live Demo:** [https://gtech29.github.io/acm-website-portfolio/](https://gtech29.github.io/acm-website-portfolio/)
+🔗 **Original Repo:** [CSUN-ACM/csun-acm.github.io](https://github.com/CSUN-ACM/csun-acm.github.io)
 
-acm@my.csun.edu | acm.sc@my.csun.edu| csuncstc@gmail.com 
+## 📌 Purpose
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
+As the Webmaster for the ACM chapter at California State University, Northridge, I was responsible for:
 
-@2024 CSUN ACM
+- Maintaining and updating the site content
+- Improving layout and responsiveness
+- Ensuring accessibility and performance
+- Supporting chapter events and outreach through the site
+
+This version preserves my contributions prior to the end of my term in July 2025.
+
+## 🛠️ Tech Stack
+
+- HTML / CSS / JavaScript
+- Bootstrap
+- Git & GitHub Pages
+
+## ⚠️ Note
+
+This repository is **not** the active version of the ACM website. It is an archived version maintained solely for portfolio and demonstration purposes.
+
+## 📄 License
+
+All rights and content belong to the original authors and the CSUN ACM organization.
+[ACM CSUN Chapter](https://csunacm.org/)
