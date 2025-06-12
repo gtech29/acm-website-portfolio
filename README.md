@@ -2,7 +2,8 @@
 
 This is a personal snapshot of the official CSUN ACM website, reflecting my original contributions as Webmaster during Spring–Summer 2025.
 
-📍 **Live Demo:** [https://gtech29.github.io/acm-website-portfolio/](https://gtech29.github.io/acm-website-portfolio/)
+📍 **Live Demo:** [https://gtech29.github.io/acm-website-portfolio/
+](https://gtech29.github.io/acm-website-portfolio/)
 🔗 **Original Repo:** [CSUN-ACM/csun-acm.github.io](https://github.com/CSUN-ACM/csun-acm.github.io)
 
 ## 📌 Purpose
